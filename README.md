@@ -3,5 +3,5 @@
 This is my GitHub project. I published it directly from Visual Studio Code.
 
 Operation steps:
-Source control management->Push
+Save->Source control management->Push
 
